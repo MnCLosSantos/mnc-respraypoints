@@ -5,7 +5,8 @@
 [![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)]()
 
 ---
-![mncrespraypoints](https://github.com/user-attachments/assets/c5730276-f907-4706-b923-fa659f617051)
+![mncrespraypoints](https://github.com/user-attachments/assets/7022acdc-7655-4729-8756-c2bd6848ef7e)
+
 
 ## 🌟 Overview
 
